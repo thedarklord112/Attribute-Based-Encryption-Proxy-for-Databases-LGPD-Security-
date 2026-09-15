@@ -93,3 +93,6 @@ The `.env` or configuration file contains the master cryptographic keys. **Never
 
 ## 📄 License
 This security suite configuration is open-source and free to protect your company under the **MIT License**. Use it to save your database, protect your clients, or just flex your cybersecurity skills on LinkedIn.
+
+
+Oh, congratulations on finishing the read. Now, please open an issue explaining what you understood, bcs even I don't know anymore lol ;)
